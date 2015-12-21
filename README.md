@@ -8,6 +8,6 @@ Supported features:
 
 ## Time window handling
 ### externalBatch
-## metric exporting
+## Metric exporting
 ## Snapshot status perdiocially
 ## Load state from snapshots programmtically
